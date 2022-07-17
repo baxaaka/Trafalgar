@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.trafalgarlogo {
+    display: inline-block;
+}
+
+.navbar a, .navbar li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+    text-decoration: none;
+}
+
+
+
+.navbar {
+    display: block;
+    float: right;
+
+}
+
+.nav {
+    width: 70%;
+    margin: 20px auto;
+}
+
+.navbar :first-child {
+    color: #000;
+}
+
+.dot {
+    display: block;
+    float: left;
+
+}
+
+.title {
+    display: inline-block;
+    width: 390px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 40px 
+    
+    
+}
+
+.text {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+    width: 410px;
+    color: rgba(0, 0, 0, 0.4);
+
+}
+
+
+.content {
+    float: left;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.ilustration {
+    margin-left: 90px;
+}
+
+.consult {
+    background-color: #458FF6;
+    border: none;
+    border-radius: 55px;
+    width: 200px;
+    height: 56px;
+    font-size: 18px;
+    color: #fff;
+
+}
+
+.consult:active {
+    box-shadow: 2px 2px 20px #000
+}
+
+.hr {
+    width: 50px;
+    height: 2px;
+    background-color: #000;
+    margin: 50px auto;
+}
+
+.sentense {
+    width: 770px;
+    text-align: center;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: rgba(0, 0, 0, 0.4);
+
+}
+
+.service {
+    text-align: center;
+    font-size: 27px;
+
+}
+
+.cards {
+    position: absolute;
+    margin-top: -480px;
+    background-color: #fff;
+    width: 290px;
+    height: 292px;
+    border-radius: 20px;
+   
+    box-shadow :1px 1px 10px 5px rgb(87, 85, 85);
+}
+
+.container {
+    text-align: center;
+}
+
+.card1 {
+    margin-left: 330px;
+    box-shadow :1px 1px 10px 5px rgb(87, 85, 85);
+}
+
+.card2 {
+    margin-left: 650px;
+}
+
+.card3 {
+    margin-left: 970px;
+}
+
+.part2 {
+    margin-top: -160px;
+    margin-left: 330px;
+}
+
+.card5 {
+    margin-left: 650px;
+}
+
+.card6 {
+    margin-left: 970px;
+}
+
+.lupa {
+    margin-left: -120px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.cards h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.cards p {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 15px;
+    text-align: start;
+    line-height: 25px;
+    width: 220px;
+    margin-left: 30px;
+}
+.card5 .lupa{
+    margin-top: 70px;
+}
+.end{
+    display: block;
+     color: #458FF6;
+     border: 2px solid #458FF6;
+     background: none;
+     width: 200px;
+     height: 54px;
+     border-radius: 55px;
+     font-size: 18px;   
+     margin: 0 auto;
+     margin-top: 290px; 
+     margin-bottom: 100px;
+}
+.end:active{
+    background: #458FF6;
+    color: #fff;
+}
+
